@@ -1,0 +1,10 @@
+=== Classical ElGamal (demo) ===
+Prime p = 467
+Generator g = 2
+Private key x = 394
+Public key h = 97
+
+Plaintext message = 123
+Ciphertext (c1, c2) = (456, 364)
+Decrypted message = 123
+Success: True

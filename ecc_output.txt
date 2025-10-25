@@ -1,0 +1,12 @@
+=== Elliptic Curve ElGamal (demo) ===
+Curve: y^2 = x^3 + 2x + 3 (mod 97)
+Base point G = Point(0,10)
+Private key d = 35
+Public key Q = Point(53,73)
+
+Message integer: 42 mapped to point: Point(44,20)
+Ciphertext C1: Point(53,24)
+Ciphertext C2: Point(29,43)
+Decrypted point: Point(44,20)
+Recovered int (x): 44
+Success: True
